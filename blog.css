@@ -112,6 +112,7 @@ box-sizing: border-box;
     grid-template-columns: repeat(3, 1fr);
     margin-top: 100px;
     margin-left: 50px;
+    gap: 50px;
 }
 
 .each-pics{
@@ -119,7 +120,7 @@ box-sizing: border-box;
     border-radius: 10px;
     margin-bottom: 65px;
     height: 480px;
-    max-width: 400px;
+    max-width: 451px;
 }
 
 .each-pics h1{

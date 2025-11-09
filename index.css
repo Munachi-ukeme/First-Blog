@@ -38,6 +38,7 @@ box-sizing: border-box;
     height: 45px;
     font-size: 15px;
     transition: all 200ms ease-in-out;
+    border: none;
 }
 
 .event:hover{
@@ -51,6 +52,7 @@ box-sizing: border-box;
     height: 45px;
     font-size: 15px;
     transition: all 200ms ease-in-out;
+    border: none;
 }
 
 .toggle:hover{
